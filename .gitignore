@@ -31,3 +31,15 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /tests/results/
 
 updateCI.sh
+
+system/
+user_guide/
+images/
+application/cache/
+application/config/
+application/core/
+application/hooks/
+application/language/
+application/libraries/
+application/logs/
+application/third_party/
